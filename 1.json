@@ -367,7 +367,7 @@
 			"response": []
 		},
 		{
-			"name": "Accepted Copy 2",
+			"name": "Delete",
 			"request": {
 				"method": "DELETE",
 				"header": [
